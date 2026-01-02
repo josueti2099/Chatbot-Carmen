@@ -27,4 +27,7 @@ Para rodar a Carmen na sua máquina, siga os passos abaixo:
 2. **Execute o arquivo principal:**
    ```bash
    python InterfaceGrafica.py
+
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/64424344-d7c4-429d-8021-5d8ee1a3bba7" />
+
   
